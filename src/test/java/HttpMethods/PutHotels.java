@@ -1,3 +1,5 @@
+package HttpMethods;
+
 import data.ExcelReader;
 import io.restassured.response.Response;
 import org.junit.Assert;

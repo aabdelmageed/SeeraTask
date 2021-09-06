@@ -1,3 +1,5 @@
+package HttpMethods;
+
 import io.restassured.path.json.JsonPath;
 import org.junit.Assert;
 import org.junit.Test;

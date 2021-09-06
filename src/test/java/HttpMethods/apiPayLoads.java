@@ -1,3 +1,5 @@
+package HttpMethods;
+
 public class apiPayLoads {
 
     static String modifySearch() {

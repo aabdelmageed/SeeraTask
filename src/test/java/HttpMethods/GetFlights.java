@@ -1,3 +1,5 @@
+package HttpMethods;
+
 import data.ExcelReader;
 import io.restassured.path.xml.XmlPath;
 import org.junit.Test;
